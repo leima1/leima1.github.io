@@ -1,11 +1,9 @@
-- default: menu_index
-  url: ''
-
-- title: Current_Projects
+- title: About Me
+  url: 'about'
+  
+- title: Current Projects
   url: 'current'
 
 - title: CV
   url: 'cv'
 
-- title: About_Me
-  url: 'about'
