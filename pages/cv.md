@@ -5,20 +5,25 @@ permalink: /cv/
 ---
 <p>&nbsp;</p>
 # Education
-#### Postdoc Scholar, 2022 - present
-University of California, Los Angeles, CA
+#### 2022 - present 
+**&emsp; Postdoc Scholar**\
+&emsp; University of California, Los Angeles, CA
 
-#### Ph.D. Neuromotor Science, 2019 - 2022
-Temple University, Philadelphia, PA
+#### 2019 - 2022 
+**&emsp; Ph.D. Neuromotor Science**\
+&emsp; Temple University, Philadelphia, PA
 
-#### Doctor of Physical Therapy (DPT), 2016 - 2019
-Temple University, Philadelphia, PA
+#### 2016 - 2019 
+**&emsp; Doctor of Physical Therapy (DPT)**\
+&emsp; Temple University, Philadelphia, PA
 
-#### M.S. Neuromotor Science, 2013 - 2016
-Temple University, Philadelphia, PA
+#### 2013 - 2016 
+**&emsp; M.S. Neuromotor Science**\
+&emsp; Temple University, Philadelphia, PA
 
-#### B.S. Kinesiology, 2009 - 2012
-University of Maryland, College Park, MD
+#### 2009 - 2012 
+**&emsp; B.S. Kinesiology**\
+&emsp; University of Maryland, College Park, MD
 
 <p>&nbsp;</p>
 
@@ -51,9 +56,53 @@ University of Maryland, College Park, MD
 <p>&nbsp;</p>
   
 # Honors and Awards
-**2022**		NIH Loan Repayment Program Award, National Institutes of Health
-**2021**		SFN Trainee Professional Development Award, Society for Neuroscience
-**2021**		Graduate Meritorious Poster Award, College of Public Health, Temple University
-**2021**		Development Fund Award, Temple Libraries Systems, Temple University
-**2020**		Visionary Research Fund, College of Public Health, Temple University
-**2018**		Original Research Award, Temple University PT Evidence-Based Practice Day
+**2022 &emsp;** 	NIH Loan Repayment Program Award, *National Institutes of Health*\
+**2021 &emsp;**		SFN Trainee Professional Development Award, *Society for Neuroscience*\
+**2021 &emsp;**		Graduate Meritorious Poster Award, *College of Public Health, Temple University*\
+**2021 &emsp;**		Development Fund Award, *Temple Libraries Systems, Temple University*\
+**2020 &emsp;**		Visionary Research Fund, *College of Public Health, Temple University*\
+**2018 &emsp;**		Original Research Award, *Temple University PT Evidence-Based Practice Day*
+
+<p>&nbsp;</p>
+
+# Teaching Experience
+
+### Lecturer
+
+#### 2021 
+&emsp;**Motor Behavior** (undergraduate course)\
+&emsp;*Temple University, Philadelphia, PA*
+
+### Clinical Teaching Assistant
+
+#### 2021 - 2022 
+&emsp; **Neuromuscular II and III**\
+*&emsp; University of Sciences, Philadelphia, PA*
+#### 2019 
+&emsp; **Motor Control and Learning**\
+*&emsp; Temple University, Philadelphia, PA*
+
+### Undergraduate Teaching Assistant 
+#### 2019 - 2021 
+&emsp; **Motor Behavior**\
+*&emsp; Temple University, Philadelphia, PA*
+#### 2019 
+&emsp; **Anatomy and Physiology I**\
+*&emsp; Temple University, Philadelphia, PA*
+#### 2013 - 2016 
+&emsp; **Motor Behavior**\
+*&emsp; Temple University, Philadelphia, PA*
+#### 2012 - 2013 
+&emsp; **Motor Control and Learning**\
+*&emsp; The University of Maryland, College Park, MD*
+
+
+<p>&nbsp;</p>
+
+# Clinical Experience
+#### 2019 - 2022 
+&emsp; **Physical Therapist and Clinical Mentor**\
+*&emsp; North Board Physical Therapy Pro Bono Center, Philadelphia, PA*\
+#### 2021 - 2022 
+&emsp; **Physical Therapist (Part-time)**\
+*&emsp; Good Shepherd Penn Partners, Philadelphia, PA, Philadelphia, PA*
