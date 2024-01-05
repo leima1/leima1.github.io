@@ -11,7 +11,7 @@ permalink: /cv/
 #### 2019 - 2022 &emsp; Ph.D. Neuromotor Science
 &emsp; Temple University, Philadelphia, PA
 
-#### 2016 - 2019 &emsp; Doctor of Physical Therapy (DPT)*
+#### 2016 - 2019 &emsp; Doctor of Physical Therapy (DPT)
 &emsp; Temple University, Philadelphia, PA
 
 #### 2013 - 2016 &emsp; M.S. Neuromotor Science
@@ -49,16 +49,6 @@ permalink: /cv/
 13. **Ma L**, Anson E, Thompson E, Jeka JJ. Improvement of Balance with Trunk Motion Visual Feedback Treadmill Walking in Older Adults: A Randomized Controlled Trial. Poster presentation at the American Physical Therapy Association Combined Sections Meeting, Indianapolis, IN, 2015.
 
 <p>&nbsp;</p>
-  
-## Honors and Awards
-**2022 &emsp;** 		*NIH Loan Repayment Program Award,* National Institutes of Health\
-**2021 &emsp;**		*SFN Trainee Professional Development Award,* Society for Neuroscience\
-**2021 &emsp;**		*Graduate Meritorious Poster Award,* College of Public Health, Temple University\
-**2021 &emsp;**		*Development Fund Award,* Temple Libraries Systems, Temple University\
-**2020 &emsp;**		*Visionary Research Fund,* College of Public Health, Temple University\
-**2018 &emsp;**		*Original Research Award,* Temple University PT Evidence-Based Practice Day
-
-<p>&nbsp;</p>
 
 ## Teaching Experience
 
@@ -80,7 +70,6 @@ permalink: /cv/
 #### 2012 - 2013 &emsp; Teaching Assistant 
 &emsp; *Motor Control and Learning*, The University of Maryland, College Park, MD
 
-
 <p>&nbsp;</p>
 
 ## Clinical Experience
@@ -88,3 +77,24 @@ permalink: /cv/
 *&emsp; North Board Physical Therapy Pro Bono Center*, Philadelphia, PA\
 **2021 - 2022** &emsp; Physical Therapist (Part-time)\
 *&emsp; Good Shepherd Penn Partners*, Philadelphia, PA
+
+<p>&nbsp;</p>
+
+## Other Experenice and Professional Memberships
+**2023 - curr**  &emsp; Member, International Parkinson and Movement Disorder Society\
+**2021 - curr**  &emsp; Member, Society for Neuroscience\
+**2017 - curr**  &emsp; Member, American Physical Therapy Association: Research/Neurology Sections\
+**2014 - curr**  &emsp; Member, International Society for Posture and Gait Research\
+**2020 - 2023**  &emsp; Member, International Society for Virtual Rehabilitation\
+**2019** &emsp; &emsp; &emsp;  &ensp; Board Member, Temple University Student Library Advisory Board\
+**2018** &emsp; &emsp; &emsp;  &ensp; Member, American Society of Neurorehabilitation
+
+<p>&nbsp;</p>
+  
+## Honors and Awards
+**2022 &emsp;** 		*NIH Loan Repayment Program Award,* National Institutes of Health\
+**2021 &emsp;**		*SFN Trainee Professional Development Award,* Society for Neuroscience\
+**2021 &emsp;**		*Graduate Meritorious Poster Award,* College of Public Health, Temple University\
+**2021 &emsp;**		*Development Fund Award,* Temple Libraries Systems, Temple University\
+**2020 &emsp;**		*Visionary Research Fund,* College of Public Health, Temple University\
+**2018 &emsp;**		*Original Research Award,* Temple University PT Evidence-Based Practice Day

@@ -7,5 +7,5 @@
 - title: CV
   url: 'cv'
 
-#- default: menu_index
-# url: ''
+- title: Posts
+  url: ''

@@ -4,4 +4,4 @@ title: Current Projects
 permalink: /current/
 ---
 
-### Current Projects
+### work in progress...
