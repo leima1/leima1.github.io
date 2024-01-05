@@ -4,30 +4,25 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 <p>&nbsp;</p>
-# Education
-#### 2022 - present 
-**&emsp; Postdoc Scholar**\
+## Education
+#### 2022 - curr &emsp; Postdoc Scholar
 &emsp; University of California, Los Angeles, CA
 
-#### 2019 - 2022 
-**&emsp; Ph.D. Neuromotor Science**\
+#### 2019 - 2022 &emsp; Ph.D. Neuromotor Science
 &emsp; Temple University, Philadelphia, PA
 
-#### 2016 - 2019 
-**&emsp; Doctor of Physical Therapy (DPT)**\
+#### 2016 - 2019 &emsp; Doctor of Physical Therapy (DPT)*
 &emsp; Temple University, Philadelphia, PA
 
-#### 2013 - 2016 
-**&emsp; M.S. Neuromotor Science**\
+#### 2013 - 2016 &emsp; M.S. Neuromotor Science
 &emsp; Temple University, Philadelphia, PA
 
-#### 2009 - 2012 
-**&emsp; B.S. Kinesiology**\
+#### 2009 - 2012 &emsp; B.S. Kinesiology
 &emsp; University of Maryland, College Park, MD
 
 <p>&nbsp;</p>
 
-# Peer-reviewed Publications
+## Peer-reviewed Publications
 1.	**Ma, L**., Marshall, P. J., & Wright, W. G. (2023). The order of attentional focus instructions affects how postural control processes compensate for multisensory mismatch: a crossover study. *Exp Brain Res*. doi:10.1007/s00221-023-06610-z
 2.	**Ma, L**., Marshall, P. J., & Wright, W. G. (2022). The impact of external and internal focus of attention on visual dependence and EEG alpha oscillations during postural control.. *J Neuroeng Rehabil*, 19(1), 81. doi:10.1186/s12984-022-01059-7
 3.	**Ma, L**., Tornetta, F., Egan, W., & Wright, W. G. (2019). Virtual reality therapy as adjunct to traditional physical therapy for a TBI patient who suffered a gunshot wound to the head: Case report. *Proceedings In International Conference on Virtual Rehabilitation*, ICVR Vol. 2019-July. doi:10.1109/ICVR46560.2019.8994509
@@ -38,7 +33,7 @@ permalink: /cv/
 
 <p>&nbsp;</p>
   
-# Conference Presentations
+## Conference Presentations
 1.	**Ma L**, Talu I, Cross KA. Auditory and Visual Cues Elicit Different Cortical Responses in Parkinson's Disease Patients during Walking. Platform Accepted for American Physical Therapy Association Combined Sections Meeting 2024. 
 2.	**Ma L**, Talu I, Cross KA. Alpha and theta activity in the supplementary motor area correlates with gait benefits from auditory cues in Parkinson's Disease and their healthy counterparts. Poster presentation at Society for Neuroscience 2023. 
 3.	Hussain S, **Ma L**, Swanson R, Biester R, Butler K, Heath K, Wu J, Robinson K, Wright WG. Measuring the Effects of Mild-Traumatic Brain Injury and Post-Traumatic Symptoms in Veteran and Civilian Populations Using Novel Virtual Reality (VR) Technology. Poster Presentation at National Capital Area TBI Research Symposium, Washington, DC, 2023
@@ -55,54 +50,41 @@ permalink: /cv/
 
 <p>&nbsp;</p>
   
-# Honors and Awards
-**2022 &emsp;** 	NIH Loan Repayment Program Award, *National Institutes of Health*\
-**2021 &emsp;**		SFN Trainee Professional Development Award, *Society for Neuroscience*\
-**2021 &emsp;**		Graduate Meritorious Poster Award, *College of Public Health, Temple University*\
-**2021 &emsp;**		Development Fund Award, *Temple Libraries Systems, Temple University*\
-**2020 &emsp;**		Visionary Research Fund, *College of Public Health, Temple University*\
-**2018 &emsp;**		Original Research Award, *Temple University PT Evidence-Based Practice Day*
+## Honors and Awards
+**2022 &emsp;** 		*NIH Loan Repayment Program Award,* National Institutes of Health\
+**2021 &emsp;**		*SFN Trainee Professional Development Award,* Society for Neuroscience\
+**2021 &emsp;**		*Graduate Meritorious Poster Award,* College of Public Health, Temple University\
+**2021 &emsp;**		*Development Fund Award,* Temple Libraries Systems, Temple University\
+**2020 &emsp;**		*Visionary Research Fund,* College of Public Health, Temple University\
+**2018 &emsp;**		*Original Research Award,* Temple University PT Evidence-Based Practice Day
 
 <p>&nbsp;</p>
 
-# Teaching Experience
+## Teaching Experience
 
-### Lecturer
+#### 2021 - 2022 &emsp; Clinical Teaching Assistant
+&emsp; *Neuromuscular II and III*, University of Sciences, Philadelphia, PA
 
-#### 2021 
-&emsp;**Motor Behavior** (undergraduate course)\
-&emsp;*Temple University, Philadelphia, PA*
+#### 2021 &emsp; &emsp; &emsp; &ensp; Lecturer
+&emsp; *Motor Behavior*, Temple University, Philadelphia, PA
 
-### Clinical Teaching Assistant
+#### 2019 &emsp; &emsp; &emsp; &ensp; Clinical Teaching Assistant
+&emsp; *Motor Control and Learning*, Temple University, Philadelphia, PA
 
-#### 2021 - 2022 
-&emsp; **Neuromuscular II and III**\
-*&emsp; University of Sciences, Philadelphia, PA*
-#### 2019 
-&emsp; **Motor Control and Learning**\
-*&emsp; Temple University, Philadelphia, PA*
-
-### Undergraduate Teaching Assistant 
-#### 2019 - 2021 
-&emsp; **Motor Behavior**\
-*&emsp; Temple University, Philadelphia, PA*
-#### 2019 
-&emsp; **Anatomy and Physiology I**\
-*&emsp; Temple University, Philadelphia, PA*
-#### 2013 - 2016 
-&emsp; **Motor Behavior**\
-*&emsp; Temple University, Philadelphia, PA*
-#### 2012 - 2013 
-&emsp; **Motor Control and Learning**\
-*&emsp; The University of Maryland, College Park, MD*
+#### 2019 - 2021 &emsp; Teaching Assistant 
+&emsp; *Motor Behavior*, Temple University, Philadelphia, PA
+#### 2019 &emsp; &emsp; &emsp;  &ensp; Teaching Assistant 
+&emsp; *Anatomy and Physiology I*, Temple University, Philadelphia, PA
+#### 2013 - 2016 &emsp; Teaching Assistant 
+&emsp; *Motor Behavior*, Temple University, Philadelphia, PA
+#### 2012 - 2013 &emsp; Teaching Assistant 
+&emsp; *Motor Control and Learning*, The University of Maryland, College Park, MD
 
 
 <p>&nbsp;</p>
 
-# Clinical Experience
-#### 2019 - 2022 
-&emsp; **Physical Therapist and Clinical Mentor**\
-*&emsp; North Board Physical Therapy Pro Bono Center, Philadelphia, PA*\
-#### 2021 - 2022 
-&emsp; **Physical Therapist (Part-time)**\
-*&emsp; Good Shepherd Penn Partners, Philadelphia, PA, Philadelphia, PA*
+## Clinical Experience
+**2019 - 2022** &emsp; Physical Therapist and Clinical Mentor\
+*&emsp; North Board Physical Therapy Pro Bono Center*, Philadelphia, PA\
+**2021 - 2022** &emsp; Physical Therapist (Part-time)\
+*&emsp; Good Shepherd Penn Partners*, Philadelphia, PA
