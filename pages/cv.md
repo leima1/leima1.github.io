@@ -34,11 +34,11 @@ permalink: /cv/
 <p>&nbsp;</p>
   
 ## Conference Presentations
-1.	**Ma L**, Talu I, Cross KA. Auditory and Visual Cues Elicit Different Cortical Responses in Parkinson's Disease Patients during Walking. Platform Accepted for American Physical Therapy Association Combined Sections Meeting 2024. 
+1.	**Ma L**, Talu I, Cross KA. Auditory and Visual Cues Elicit Different Cortical Responses in Parkinson's Disease Patients during Walking. Platform presention at American Physical Therapy Association Combined Sections Meeting 2024. 
 2.	**Ma L**, Talu I, Cross KA. Alpha and theta activity in the supplementary motor area correlates with gait benefits from auditory cues in Parkinson's Disease and their healthy counterparts. Poster presentation at Society for Neuroscience 2023. 
 3.	Hussain S, **Ma L**, Swanson R, Biester R, Butler K, Heath K, Wu J, Robinson K, Wright WG. Measuring the Effects of Mild-Traumatic Brain Injury and Post-Traumatic Symptoms in Veteran and Civilian Populations Using Novel Virtual Reality (VR) Technology. Poster Presentation at National Capital Area TBI Research Symposium, Washington, DC, 2023
-4.	**Ma L**, Kramer P, Wright WG. Instructions Matter: Directing Attention Improves Sensory Integration for Balance in Older Adults. Platform talk at the American Physical Therapy Association Combined Sections Meeting. San Diego, CA, 2022. 
-5.	**Ma L**, Kramer P, Hussain SR, Wright WG. Comparison of Postural Kinematics Between a Wireless Virtual Reality Headset and Research-Grade Motion Capture. Platform talk at Rehab Week 2022. Rotterdam, Netherlands, 2022.
+4.	**Ma L**, Kramer P, Wright WG. Instructions Matter: Directing Attention Improves Sensory Integration for Balance in Older Adults. Platform presention at the American Physical Therapy Association Combined Sections Meeting. San Diego, CA, 2022. 
+5.	**Ma L**, Kramer P, Hussain SR, Wright WG. Comparison of Postural Kinematics Between a Wireless Virtual Reality Headset and Research-Grade Motion Capture. Platform presention at Rehab Week 2022. Rotterdam, Netherlands, 2022.
 6.	**Ma L**, Marshall P, Wright WG. How instructions improve balance: The impact of attention on sensory integration for postural control. Poster presentation at the International Society for Posture and Gait Conference. Montréal, Quebec, Canada, 2022.
 7.	**Ma L**, Marshall P, Wright WG. The Impact of Verbal Instructions on Sensory Integration for Postural Control. Poster presentation at the American Physical Therapy Association Combined Sections Meeting, San Antonio, TX, 2022.
 8.	**Ma L**, Marshall P, Wright WG. The Impact of Attention on Sensory Integration for Postural Control as Characterized by Behavioral and Cortical Changes. Poster presentation at the Society for Neuroscience. Online 2021.
@@ -92,6 +92,7 @@ permalink: /cv/
 <p>&nbsp;</p>
   
 ## Honors and Awards
+**2024 &emsp;** 		*Early Career Scientist Best Abstract,* Academy of Neurologic Physical Therapy\
 **2022 &emsp;** 		*NIH Loan Repayment Program Award,* National Institutes of Health\
 **2021 &emsp;**		*SFN Trainee Professional Development Award,* Society for Neuroscience\
 **2021 &emsp;**		*Graduate Meritorious Poster Award,* College of Public Health, Temple University\
