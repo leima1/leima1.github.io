@@ -21,7 +21,7 @@ permalink: /current/
     padding: 0 4px;
   }
   .project-figure img {
-    max-width: 100%;
+    max-width: min(100%, 600px);
     height: auto;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -44,42 +44,35 @@ permalink: /current/
 </style>
 
 <div class="project-section">
-  <h3>Multimodal Recording of iEEG, Scalp EEG, and Behavior During Freely Walking DBS Patients</h3>
-  <p>
-    to be updated 
-  </p>
+  <h3>Multimodal recording of iEEG, scalp EEG, and behavior in freely walking DBS patients</h3>
+  <figure class="project-figure">
+    <img src="{{ '/assets/images/multimodel_wide.png' | relative_url }}" alt="Synchronized recording streams showing a virtual reality headset view, motion-capture skeleton, left and right acceleration traces, a rising freeze index, and simultaneous scalp EEG and intracranial EEG">
+    <figcaption>Deep brain stimulation (DBS) implants allow direct recording from the basal ganglia during walking. Here, intracranial EEG is synchronized with scalp EEG, motion capture, accelerometry, and virtual reality to study freezing of gait.</figcaption>
+  </figure>
 
+  <!-- Sub-projects hidden until written up. Each needs a sentence or two.
   <div class="subproject-section">
     <h4 style="color: #1e5fa8;">Basal Ganglia Dysfunction During Freezing of Gait</h4>
-    <p>
-
-    </p>
+    <p></p>
   </div>
 
   <div class="subproject-section">
     <h4 style="color: #3d8a5a;">Basal Ganglia Correlates of Dual-Task Walking</h4>
-    <p>
-
-    </p>
+    <p></p>
   </div>
+  -->
 </div>
 
 <div class="project-section">
-  <h3 style="color: #1e8a9a;">Cortical dynamics of cued gait in Parkinson's disease</h3>
-  <p>
-    Freezing of gait (FOG) is a debilitating symptom of Parkinson’s disease: a brief, involuntary inability to step forward. Using high-density scalp EEG, I map cortical activity during cued and uncued walking in patients with and without FOG. The animation below tracks sensorimotor beta-band power across the gait cycle, revealing heightened engagement during contralateral swing when patients with FOG use visual cues.
-  </p>
+  <h3 style="color: #1e8a9a;">Mapping cortical dynamics of cued and uncued gait in Parkinson's disease (PD) with high-density scalp EEG</h3>
   <figure class="project-figure">
     <img src="{{ '/assets/images/ersp_beta_sub_fog_data_selfBase_visu.gif' | relative_url }}" alt="Animated scalp topography of beta-band EEG activity during Parkinsonian gait with cues">
-    <figcaption>Beta-band ERSP scalp topography across the gait cycle during cued walking.</figcaption>
+    <figcaption>Beta-band event-related spectral perturbation scalp topography across the gait cycle, showing heightened sensorimotor responses during visually cued walking in PD patients with freezing of gait.</figcaption>
   </figure>
 </div>
 
 <div class="project-section">
-  <h3 style="color: #b5612e;">Gait analysis tool for free overground walking</h3>
-  <p>
-    I am developing a tool that extracts gait events from motion-capture data recorded during free overground walking. It detects heel strikes from the left and right heel trajectories and computes spatiotemporal gait metrics without the constraints of a treadmill or fixed walkway.
-  </p>
+  <h3 style="color: #b5612e;">Extracting heel strikes and spatiotemporal gait metrics from free overground walking in healthy and patient populations</h3>
   <figure class="project-figure">
     <img src="{{ '/assets/images/HS_extraction_example_ui.png' | relative_url }}" alt="Gait analysis interface showing right and left heel signals with detected heel strikes and a bird's-eye walking path">
     <figcaption>Heel-strike extraction and walking-path reconstruction during free overground walking.</figcaption>

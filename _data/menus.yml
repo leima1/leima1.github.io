@@ -1,9 +1,5 @@
-- title: About Me
-  url: 'about'
-  
-- title: Current Projects
+- title: Current Pojects
   url: 'current'
 
 - title: CV
   url: 'cv'
-

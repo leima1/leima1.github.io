@@ -7,9 +7,22 @@ email: your-email@example.com
 name: Leo
 description: >- # this means to ignore newlines until "baseurl:"
   PT, DPT, PhD
-keywords: [Your keywords]
+keywords:
+  [
+    Parkinson's disease,
+    gait,
+    posture,
+    balance,
+    EEG,
+    intracranial EEG,
+    deep brain stimulation,
+    physical therapy,
+    motor control,
+    neurorehabilitation,
+    virtual reality,
+  ]
 baseurl: '' # the subpath of your site, e.g. /`blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://leima1.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 domain: 'leima1.github.io' # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
@@ -29,9 +42,6 @@ disqus: # disqus account
 
 mathjax: true # Math support
 diagram: true # Diagrams support
-
-paginate: 25
-paginate_path: '/page:num/'
 
 permalink: /:year/:month/:day/:title
 
